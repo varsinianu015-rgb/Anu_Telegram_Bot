@@ -65,3 +65,13 @@ System Design Diagram:
                │   OpenAI GPT-4o-mini   │
                └────────────────────────┘
 
+
+Here i attached the Screenshot of the output.
+
+<img width="1920" height="1080" alt="Output" src="https://github.com/user-attachments/assets/e5940a53-e8c0-4503-bfa1-07b3159c8f9a" />
+
+Optional Enhancements:
+ Message history awareness — maintain last 3 interactions per user.
+ “Source snippets” — show which doc was used in RAG response.
+
+Above 2 optionals enhancements are implemented.
