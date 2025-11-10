@@ -70,6 +70,10 @@ Here i attached the Screenshot of the output.
 
 <img width="1920" height="1080" alt="Output" src="https://github.com/user-attachments/assets/e5940a53-e8c0-4503-bfa1-07b3159c8f9a" />
 
+![Media](https://github.com/user-attachments/assets/4b421905-a3e9-4bd2-9e01-fd412233dd6e)
+![Media (1)](https://github.com/user-attachments/assets/4a65fd94-7863-49fc-a162-9b340bd14d89)
+
+
 Optional Enhancements:
  Message history awareness — maintain last 3 interactions per user.
  “Source snippets” — show which doc was used in RAG response.
